@@ -22,7 +22,7 @@ M.ui = {
       { "  Bookmarks", "Spc m a", "Telescope marks" },
       { "  Themes", "Spc t h", "Telescope themes" },
       { "  Mappings", "Spc c h", "NvCheatsheet" },
-      { "󰒲  Lazy", "Spc Spc", "Open Lazy" },
+      { "󰒲  Lazy", "Ctrl+l", "Open Lazy" },
       { "󰁕  Quit", "Esc", "Quit NeoVim" },
     },
 
